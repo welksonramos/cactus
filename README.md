@@ -11,4 +11,4 @@
 5. *`source ~/.zshrc`* or restart your terminal 🚀
 
 ## License
-&copy; Lincensed under The MIT License - Welkson Ramos
+&copy; Lincensed under The MIT License
