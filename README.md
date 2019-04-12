@@ -1,6 +1,7 @@
 # cactus 🌵
 > 🌵 A minimal zsh theme with git status indicators
 
+![demo](cactus-demo.gif)
 
 ## Install
 
